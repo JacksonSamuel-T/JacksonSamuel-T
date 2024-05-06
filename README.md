@@ -7,7 +7,7 @@
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/invites/contact/i=1rs0zok51ehmr&utm_content=l974edr) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/JacksonSamuel-T/)
+<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/invites/contact/i=1rs0zok51ehmr&utm_content=l974edr) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/JacksonSamuel-T/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
