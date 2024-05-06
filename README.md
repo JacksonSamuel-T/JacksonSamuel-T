@@ -14,6 +14,6 @@
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacksonSamuel-T?theme=dark&font=Marcellus&ext=contest))
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacksonSamuel-T?theme=dark&font=Mallanna&ext=contest)
 
 [![Jackson Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JacksonSamuel-T&bg_color=000000&color=ffffff&line=4ef461&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
