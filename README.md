@@ -1,11 +1,10 @@
 ## Hi there 👋 It's me Jackson Samuel
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
-- 🌱 I’m currently learning DSA<br>
-- 🤔 I’m looking for help with Placements in ZOHO<br>
-- 💬 Ask me about Tech<br>
+- 🌱 I’m currently learning DSA
+- 🤔 I’m looking for help with Placements in ZOHO
+- 💬 Ask me about Tech
 - 📫 How to reach me :
-
 <br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/invites/contact/i=1rs0zok51ehmr&utm_content=l974edr) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/JacksonSamuel-T/)
 
 - 😄 Pronouns: Techie
