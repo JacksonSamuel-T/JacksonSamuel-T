@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Placements in ZOHO
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.instagram.com/invites/contact/?i=1rs0zok51ehmr&utm_content=l974edr) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jackson-samuel-t-78a3a22a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
